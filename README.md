@@ -1,2 +1,2 @@
-# projeto_PAC
-Projeto de PAC - Motor de recomendação de livros
+# BookRecommendationTool
+Engine created as part of the introduction to python programming course.
